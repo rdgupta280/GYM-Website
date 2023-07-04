@@ -1,5 +1,5 @@
 # Gym Website
-Welcome to the Gym Website project! This project is a web application for a gym, where users can register, check prices, and explore various activities offered by the gym. The website is deployed and can be accessed at https://.
+Welcome to the Gym Website project! This project is a web application for a gym, where users can register, check prices, and explore various activities offered by the gym. The website is deployed and can be accessed at https://ram-gymproject.netlify.app/.
 
 ## Technologies Used
 The Gym Website is built using the following technologies:
@@ -32,4 +32,4 @@ Presents a comprehensive list of activities and classes offered by the gym. User
 Registration & Login: Provides a user authentication system that enables new users to register an account and existing users to log in. This functionality allows users to access personalized features, such as booking classes and managing their membership.
 
 # Deployment
-The Gym Website is deployed and can be accessed at https://. The site is hosted on Vercel, a popular platform for deployment and hosting of web applications.
+The Gym Website is deployed and can be accessed at https://ram-gymproject.netlify.app/. The site is hosted on Vercel, a popular platform for deployment and hosting of web applications.
