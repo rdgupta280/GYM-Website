@@ -44,7 +44,6 @@ export default function Pricing() {
             <li>The gym is open 24hours a day a week</li>
             <li>Two safe payment method</li>
             <li>Group fitness classes in the price of subscription</li>
-            <li>No long-term contract,period</li>
           </ul>
         </div>
       </div>
